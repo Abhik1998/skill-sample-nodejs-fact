@@ -21,12 +21,12 @@ const STOP_MESSAGE = 'Goodbye!';
 //=========================================================================================================================================
 
 const data = [
-  'A year on Mercury is just 88 days long.',
-  'Despite being farther from the Sun, Venus experiences higher temperatures than Mercury.',
-  'Venus rotates counter-clockwise, possibly because of a collision in the past with an asteroid.',
-  'On Mars, the Sun appears about half the size as it does on Earth.',
-  'Earth is the only planet not named after a god.',
-  'Jupiter has the shortest day of all the planets.',
+  'Drink something hot to cool down',
+  ' Your sweat is mostly made up of water',
+  'The strongest muscle in your body is …',
+  'More than half your bones are located in your hands and feet',
+  'You can physically see high cholesterol',
+  'Cholesterol-free can be bad for your cholesterol',
   'The Milky Way galaxy will collide with the Andromeda Galaxy in about 5 billion years.',
   'The Sun contains 99.86% of the mass in the Solar System.',
   'The Sun is an almost perfect sphere.',
